@@ -1,7 +1,7 @@
 /**
- * Fist Package 
- * Done by Nawfal
- * 23/06.2015
+ * UUID Prefix
+ * Done by Nawfal Ali
+ * 23/06/2015
  */
 var uuid = require('node-uuid');
 module.exports = {

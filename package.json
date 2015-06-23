@@ -1,28 +1,26 @@
 {
-  "name": "FirstnpmPackage",
+  "name": "UUIDWithPrefix",
   "version": "1.0.0",
-  "description": "Fist Packge",
-  "main": "index.js",
+  "description": "UUID With Prefix",
+  "main": "uuid.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nawfalCode/npmPackage.git"
+    "url": "https://github.com/nawfalCode/uuidPrefix.git"
   },
   "keywords": [
-    "First",
-    "Nawfal",
-    "Package"
+    "uuid",
+    "prefix"    
   ],
   "author": "Nawfal",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nawfalCode/npmPackage/issues"
+    "url": "https://github.com/nawfalCode/uuidPrefix/issues"
   },
-  "homepage": "https://github.com/nawfalCode/npmPackage",
-  "devDependencies": {
-    "chai": "^3.0.0",
-    "mocha": "^2.2.5"
+  "homepage": "https://github.com/nawfalCode/uuidPrefix",
+  "dependencies": {
+    "node-uuid": "^1.4.3"
   }
 }
