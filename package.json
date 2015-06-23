@@ -1,5 +1,5 @@
 {
-  "name": "UUIDWithPrefix",
+  "name": "uuid-prefix",
   "version": "1.0.0",
   "description": "UUID With Prefix",
   "main": "uuid.js",

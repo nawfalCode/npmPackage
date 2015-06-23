@@ -1,5 +1,5 @@
 # UUID with Prefix
-Adds bytes as prefix to the standared uuid 
+Adds bytes as prefix to the standared uuid - RFC4122 v1 (timestamp-based). 
 
 How to Install 
 ------------
