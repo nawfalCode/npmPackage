@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/nawfalCode/uuidPrefix/issues"
   },
-  "homepage": "https://github.com/nawfalCode/uuidPrefix",
+  "homepage": "https://github.com/nawfalCode/uuidPrefix.git",
   "dependencies": {
     "node-uuid": "^1.4.3"
   }
