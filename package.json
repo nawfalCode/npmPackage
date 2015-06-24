@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/nawfalCode/uuidPrefix.git",
   "dependencies": {
-    "node-uuid": "^1.4.3"
+    "node-uuid": "broofa/node-uuid"
   }
 }
